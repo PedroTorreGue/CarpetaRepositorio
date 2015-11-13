@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Ignoramos los bytecodes
 *.class
 
@@ -7,3 +8,17 @@
 
 #Ignoramos la carpeta doc
 /doc
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 6b5bcc47644e0035665ec3118efe5e116a172632
