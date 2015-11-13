@@ -1,0 +1,9 @@
+#Ignoramos los bytecodes
+*.class
+
+#también los del editor
+*~
+*.swp
+
+#Ignoramos la carpeta doc
+/doc
